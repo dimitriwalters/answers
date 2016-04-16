@@ -89,4 +89,4 @@ public class Stack {
 }
 ```
 
-A: `ensureCapacity` is not updating the `size` variable
+A: `ensureCapacity` is not updating `size`
